@@ -1,6 +1,0 @@
-INFORMATION FOR YOU (this overwrites any information in the brif if it conflicts)
-
-1 - The lecturer made a mistake, you only need to develop ONE algorithm, not two, you dont need to compare it with
-anthing 
-2 - this is about manual Rule based ai algorithms, NOT Machine learning
-3 - 
